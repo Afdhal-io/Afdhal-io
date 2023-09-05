@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Afdhal-io
+----- Welcome to my repo -----
+- 👋 Hi, I’m Muhammad Afdhal Faudy
 - 👀 I’m interested in FullStack Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python, Java, PHP, React JS
 
