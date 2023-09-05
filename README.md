@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Afdhal-io
 - 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Phyton, Java
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, Java, PHP, React
 
 <!---
 Afdhal-io/Afdhal-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
